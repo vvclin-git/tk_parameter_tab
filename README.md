@@ -1,3 +1,9 @@
 # tk_parameter_tab
-a table for multiple parameter entry for tkinter GUI development
-![image](https://user-images.githubusercontent.com/15643572/153387260-74b1b3c2-64d3-4331-a640-bb139ba23a54.png)
+**A table widget for multiple parameter entry for tkinter GUI development**
+
+**Features**
+  * Input Validation 
+  * Drop-down List
+
+![image](https://github.com/user-attachments/assets/15346c51-61ea-46a8-80e1-af3129c34692)
+
